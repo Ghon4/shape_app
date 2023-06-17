@@ -9,6 +9,7 @@ class ShapeApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Shape App',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const ShapeScreen(),
