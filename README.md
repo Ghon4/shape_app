@@ -1,16 +1,24 @@
-# shape_app
+# Shape App
 
-A new Flutter project.
+This Flutter app displays various shapes and demonstrates different layout techniques.
+
+## Features
+
+- Circular Shape with Stroke: Displays a central circle with a stroke and smaller circles around it.
+- Crossed Rectangle with Linear Gradient: Shows a rectangle with a linear gradient color and a semi-circular masked shape.
+- Scrollable Horizontal List: Presents a horizontal list of squares that can be scrolled.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the app locally on your machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: Make sure you have Flutter installed. You can download it from the official Flutter website: [https://flutter.dev](https://flutter.dev)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```shell
+   git clone https://github.com/Ghon4/shape_app.git
